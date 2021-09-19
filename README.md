@@ -5,11 +5,12 @@ Donde se especifican cada uno de los campos de registros y las relaciones que de
   
 Cuando se necesite una relación se colocará el prefijo RE
 Los nombres de las tablas, con sus abreviaciones, son los siguientes:
-    - Módulo de administración del proyecto => MAP
-    - Módulo de registro avance de proyecto => MRAP
-    - Módulo de gestion estudiantes => MGE
-    - Módulo de gestion de lideres => MGL
-    - Módulo de gestion de proyecto => MGP
+
+        - Módulo de administración del proyecto => MAP
+        - Módulo de registro avance de proyecto => MRAP
+        - Módulo de gestion estudiantes => MGE
+        - Módulo de gestion de lideres => MGL
+        - Módulo de gestion de proyecto => MGP
 
 Con esto definido se procede a mostrar los campos de cada una de las tablas
 
