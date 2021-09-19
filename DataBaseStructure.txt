@@ -22,8 +22,6 @@ MAP:
         -initial_date
         -final_date
         -active
-            -RE_MGL (id_project_director)
-            -RE_MRAP (advance_percentaje)
 
 MRAP:
 
@@ -51,8 +49,6 @@ MGL:
 
 MGP:
 
-    -name
     -fase
-    -advance_delivery
     -note
         -RE_MAP (id_project)
