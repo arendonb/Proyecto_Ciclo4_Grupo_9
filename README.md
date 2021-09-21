@@ -60,3 +60,13 @@ Tables:
         -advance_delivery
         -note
             -RE_MAP (id_project)
+
+### Consultas
+
+Se añadieron 4 consultas de pruebas para la base de datos, las cuales son:
+
+    -Buscar los proyectos activos
+    -Proyectos asociados a determinado director
+    -Nombre de los directores de determinado proyecto
+    -Nombre de los estudiantes asociados a determinado proyecto
+    
